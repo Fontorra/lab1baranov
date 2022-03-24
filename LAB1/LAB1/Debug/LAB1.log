@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Даниил\source\repos\LAB1\LAB1\main.c(28,35): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Даниил\source\repos\LAB1\LAB1\main.c(31,19): warning C4013: memcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Даниил\source\repos\LAB1\LAB1\main.c(182,24): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Даниил\source\repos\LAB1\LAB1\main.c(217,43): warning C4013: LinearComb: нет определения; предполагается "extern" с возвратом типа "int"
+  LAB1.vcxproj -> C:\Users\Даниил\source\repos\LAB1\Debug\LAB1.exe
